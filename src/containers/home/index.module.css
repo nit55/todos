@@ -1,0 +1,20 @@
+.homeDiv{
+    margin-top:50px;
+}
+.todoDiv{
+    width:300px;
+    box-shadow: 0px 1px 0px 2px silver;
+    padding:10px;
+    margin:10px auto
+}
+.innerTodoDiv{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.done{
+    color:green;
+}
+.pending{
+    color:red
+}
